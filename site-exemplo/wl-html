@@ -6,11 +6,10 @@
     <title>Meu primeiro site em repositorio</title>
 </head>
 <body>
-    <h1Projeto Silva</h1>
-        <Hr></Hr>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi facilis nemo iusto maiores fugiat quod culpa ipsa quis placeat saepe aut, ullam necessitatibus quia deserunt blanditiis, porro, voluptatem quisquam excepturi.</p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima esse vero aut dolorem molestiae ratione eveniet itaque optio accusantium nam adipisci voluptas perspiciatis suscipit, quae alias, voluptate blanditiis iste hic!
-
-    
+    <h1>Projeto Silva</h1>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit perferendis ut aut totam pariatur voluptatibus officia, veritatis accusamus odit repellendus excepturi? Beatae labore aut, corrupti est facere optio quam consequatur.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem dolore illum iusto maiores veritatis id laudantium ducimus corporis, incidunt adipisci iure nulla dicta aliquam, nobis dignissimos at animi, quisquam odio.</p>
 
 </body>
 </html>
